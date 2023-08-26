@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IntegerMaxmulti",
+            "request": "launch",
+            "mainClass": "IntegerBreak.IntegerMaxmulti",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfArithmeticSlices",
+            "request": "launch",
+            "mainClass": "划分等差数列.NumberOfArithmeticSlices",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "UniquePaths",
+            "request": "launch",
+            "mainClass": "UniquePaths",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "MinPathSum",
+            "request": "launch",
+            "mainClass": "MinPathSum",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Rob2",
+            "request": "launch",
+            "mainClass": "Rob2",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Rob",
+            "request": "launch",
+            "mainClass": "Rob",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "ClimbStairs",
+            "request": "launch",
+            "mainClass": "ClimbStairs",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchRange",
+            "request": "launch",
+            "mainClass": "SearchRange",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinimuminRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "FindMinimuminRotatedSortedArray",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleNonDuplicate",
+            "request": "launch",
+            "mainClass": "SingleNonDuplicate",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AssignCookies",
+            "request": "launch",
+            "mainClass": "AssignCookies",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch BurstBaloons",
+            "request": "launch",
+            "mainClass": "BurstBaloons",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch EraseOverlapIntervals",
+            "request": "launch",
+            "mainClass": "EraseOverlapIntervals",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsSubsequence",
+            "request": "launch",
+            "mainClass": "IsSubsequence",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthLargest",
+            "request": "launch",
+            "mainClass": "KthLargest",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxProfit",
+            "request": "launch",
+            "mainClass": "MaxProfit",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxProfit2",
+            "request": "launch",
+            "mainClass": "MaxProfit2",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubArray",
+            "request": "launch",
+            "mainClass": "MaxSubArray",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merge",
+            "request": "launch",
+            "mainClass": "Merge",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextGreatestLetter",
+            "request": "launch",
+            "mainClass": "NextGreatestLetter",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nondecreasing",
+            "request": "launch",
+            "mainClass": "Nondecreasing",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch PartitionLabels",
+            "request": "launch",
+            "mainClass": "PartitionLabels",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlaceFlowers",
+            "request": "launch",
+            "mainClass": "PlaceFlowers",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReconstructQueue",
+            "request": "launch",
+            "mainClass": "ReconstructQueue",
+            "projectName": "javaCode_a79c45ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sqrtx",
+            "request": "launch",
+            "mainClass": "Sqrtx",
+            "projectName": "javaCode_a79c45ee"
+        }
+    ]
+}
